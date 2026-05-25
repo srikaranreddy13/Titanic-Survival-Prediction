@@ -1,8 +1,7 @@
-streamlit
-
+streamlit==1.57.0
+tensorflow==2.15.1
 pandas
 numpy
 matplotlib
 scikit-learn
-joblib
-h5py
+
